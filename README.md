@@ -2,7 +2,7 @@
 
 > Software engineer building reliable, user-friendly web applications and developer tools. I focus on developer experience, pragmatic automation, and shipping production-ready systems.
 
-[![Website](https://img.shields.io/badge/website-souzddou.dev-0ea5a4?style=flat-square&logo=aboutdotme)](https://souzddou.dev) [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle) [![Email](https://img.shields.io/badge/Email-hello%40souzddou.dev-d14836?style=flat-square&logo=gmail)](mailto:hello@souzddou.dev) [![Level](https://img.shields.io/badge/level-1337-ffd700?style=flat-square&logo=hackthebox&logoColor=black)](https://github.com/souzddou)
+[![Website](https://img.shields.io/badge/website-souzddou.dev-0ea5a4?style=flat-square&logo=aboutdotme)](https://souzddou.dev) [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle) [![Email](https://img.shields.io/badge/Email-hello%40souzddou.dev-d14836?style=flat-square&logo=gmail)](mailto:hello@souzddou.dev)
 
 ---
 
