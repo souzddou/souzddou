@@ -2,6 +2,10 @@
 
 > Software engineer building reliable, user-friendly web applications and developer tools. I focus on developer experience, pragmatic automation, and shipping production-ready systems.
 
+<p align="center">
+  <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="GreenBinary" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
+</p>
+
 ---
 
 ## About me
@@ -21,12 +25,6 @@ I build pragmatic, well-tested web applications and developer tooling that make 
 - Delivering production features end-to-end: prototype → tests → deploy
 - Strong emphasis on developer experience and automation
 - Comfortable across frontend, backend, and infrastructure layers
-
----
-
-<p align="center">
-  <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="GreenBinary" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
-</p>
 
 ---
 
