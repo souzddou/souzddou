@@ -50,7 +50,7 @@ Analytical and adaptable Software Engineering student focused on complex problem
 
 ## Contact
 
-- Website: https://souzddou.dev
+- Linkedin: https://www.linkedin.com/in/smaail-ouzddou/
 - GitHub: https://github.com/souzddou
 
 Thanks for stopping by 👋
