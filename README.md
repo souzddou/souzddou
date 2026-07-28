@@ -16,17 +16,6 @@ Analytical and adaptable Software Engineering student focused on complex problem
 
 ---
 
-## Education
-
-- 1337 Coding School (UM6P & 42 Network) • 2026
-  - Methodology: Immersive, project-based curriculum; peer-to-peer learning model inside UM6P's digital sciences ecosystem.
-  - Key strength: Extreme self-reliance, analytical thinking, and complex problem decomposition in collaborative environments.
-
-- University — Mathematics (coursework)
-  - Built a strong foundation in formal logic, structured thinking, and complex system decomposition.
-
----
-
 ## Project experience
 
 ### ft_transcendence — AI service & matchmaking logic
@@ -34,7 +23,7 @@ Analytical and adaptable Software Engineering student focused on complex problem
 - Integrated Gemini LLM to process user inputs and generate personalized bios, improving engagement.
 - Designed a matchmaking algorithm to analyze lifestyle preferences and compute compatibility scores.
 
-### RAG system for CV optimization
+### RAG system
 - Built a Retrieval-Augmented Generation pipeline using Python and LangChain to index and query resume context.
 - Implemented semantic search and context retrieval to ground LLM responses for automated profile evaluation.
 
