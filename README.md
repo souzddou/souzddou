@@ -1,9 +1,7 @@
 # 1337 Software Engineer Student _ Smaail Ouzddou👋
 
-
-[![Website](https://img.shields.io/badge/website-souzddou.dev-0ea5a4?style=flat-square&logo=aboutdotme)](https://souzddou.dev) [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle) [![Email](https://img.shields.io/badge/Email-hello%40souzddou.dev-d14836?style=flat-square&logo=gmail)](mailto:hello@souzddou.dev) [![GreenBinary](https://badge.mediaplus.ma/greenbinary/souzddou)](https://badge.mediaplus.ma/greenbinary/souzddou)
-
 > Software engineer building reliable, user-friendly web applications and developer tools. I focus on developer experience, pragmatic automation, and shipping production-ready systems.
+
 ---
 
 ## About me
@@ -23,6 +21,12 @@ I build pragmatic, well-tested web applications and developer tooling that make 
 - Delivering production features end-to-end: prototype → tests → deploy
 - Strong emphasis on developer experience and automation
 - Comfortable across frontend, backend, and infrastructure layers
+
+---
+
+<p align="center">
+  <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="GreenBinary" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
+</p>
 
 ---
 
