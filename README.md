@@ -1,62 +1,67 @@
-# 1337 Software Engineer Student _ Smaail Ouzddou👋
+# Smaail Ouzddou — 1337 Software Engineer Student 👋
 
-> Software engineer building reliable, user-friendly web applications and developer tools. I focus on developer experience, pragmatic automation, and shipping production-ready systems.
+> Analytical and adaptable Software Engineering student driven by a passion for complex problem-solving. Strong foundation in university-level mathematics and systems programming (C/C++). Applied analytical skills to modern AI engineering—designing matchmaking algorithms, building Retrieval-Augmented Generation (RAG) systems, and integrating LLM microservices into full-stack architectures.
 
 <p align="center">
+  <a href="https://souzddou.dev"><img alt="Website" src="https://img.shields.io/badge/website-souzddou.dev-0ea5a4?style=flat-square&logo=aboutdotme" /></a>
   <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="GreenBinary" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
+  <a href="https://github.com/souzddou"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-souzddou-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## About me
+## Summary
 
-I build pragmatic, well-tested web applications and developer tooling that make teams more productive. I enjoy contributing to open source, improving developer experience, and solving systems problems with simple, maintainable solutions.
-
-- 🔭 Currently: Building scalable web apps and developer tools
-- 🌱 Learning: Advanced TypeScript patterns, observability, and distributed tracing
-- 👯 Open to: Collaborations on frontend infra, DX tooling, and OSS libraries
-- 💬 Ask me about: React, TypeScript, Node.js, CI/CD, system design
-- ⚡ Fun fact: I’m a coffee-first coder and a weekend photographer
+Analytical and adaptable Software Engineering student focused on complex problem-solving, systems programming, and applied AI engineering. Experience designing matchmaking logic, building RAG systems, and integrating LLM microservices into production-like full-stack architectures.
 
 ---
 
-## Highlights
+## Education
 
-- Delivering production features end-to-end: prototype → tests → deploy
-- Strong emphasis on developer experience and automation
-- Comfortable across frontend, backend, and infrastructure layers
+- 1337 Coding School (UM6P & 42 Network) • 2026
+  - Methodology: Immersive, project-based curriculum; peer-to-peer learning model inside UM6P's digital sciences ecosystem.
+  - Key strength: Extreme self-reliance, analytical thinking, and complex problem decomposition in collaborative environments.
 
----
-
-## Skills & Tools
-
-- Languages: TypeScript, JavaScript, Python, Go
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, PostgreSQL
-- DevOps / Infra: Docker, GitHub Actions, AWS (ECS / Lambda)
-- Observability: Prometheus, Grafana, OpenTelemetry
+- University — Mathematics (coursework)
+  - Built a strong foundation in formal logic, structured thinking, and complex system decomposition.
 
 ---
 
-## Selected projects
+## Project experience
 
-- [Project A](https://github.com/OWNER/project-a) — Short description of what it does and why it matters.
-- [Project B](https://github.com/OWNER/project-b) — Short description and a technical highlight.
-- [Project C](https://github.com/OWNER/project-c) — Short description; note if it’s actively maintained.
+### ft_transcendence — AI service & matchmaking logic
+- Owned AI and compatibility logic for a full-stack platform; engineered a Python/FastAPI microservice for backend integration.
+- Integrated Gemini LLM to process user inputs and generate personalized bios, improving engagement.
+- Designed a matchmaking algorithm to analyze lifestyle preferences and compute compatibility scores.
 
-(Replace OWNER/project with the actual repo links you want featured. You can pin up to 6 repos on your profile page.)
+### RAG system for CV optimization
+- Built a Retrieval-Augmented Generation pipeline using Python and LangChain to index and query resume context.
+- Implemented semantic search and context retrieval to ground LLM responses for automated profile evaluation.
+
+### Inception — Docker infrastructure
+- Architected a multi-service demo environment using Docker Compose, NGINX, WordPress, and MariaDB to simulate production.
+
+---
+
+## Technical skills
+
+- Languages: C, C++, Python, JavaScript, TypeScript, Bash
+- AI & microservices: LLM integration (Gemini), LangChain, RAG systems, FastAPI, AI matchmaking
+- Backend & web: Node.js, NestJS, microservices architecture, RESTful APIs
+- DevOps & tools: Docker, Docker Compose, Git, Linux CLI, TCP/IP, multithreading, observability
 
 ---
 
 ## GitHub stats
 
-![Dou's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzddou&show_icons=true&theme=tokyonight)
+![Smaail's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzddou&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzddou&layout=compact&theme=tokyonight)
 
 ---
 
-## Want to collaborate?
+## Contact
 
-I’m open to interesting projects and contract work. Email me at hello@souzddou.dev or send a DM on Twitter.
+- Website: https://souzddou.dev
+- GitHub: https://github.com/souzddou
 
 Thanks for stopping by 👋
