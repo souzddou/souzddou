@@ -3,7 +3,7 @@
 > Analytical and adaptable Software Engineering student driven by a passion for complex problem-solving. Strong foundation in university-level mathematics and systems programming (C/C++). Applied analytical skills to modern AI engineering—designing matchmaking algorithms, building Retrieval-Augmented Generation (RAG) systems, and integrating LLM microservices into full-stack architectures.
 
 <p align="center">
-  <a href="https://souzddou.dev"><img alt="Website" src="https://img.shields.io/badge/website-souzddou.dev-0ea5a4?style=flat-square&logo=aboutdotme" /></a>
+  <a href="https://www.linkedin.com/in/smaail-ouzddou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-smaail--ouzddou-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="GreenBinary" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
   <a href="https://github.com/souzddou"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-souzddou-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
@@ -50,7 +50,7 @@ Analytical and adaptable Software Engineering student focused on complex problem
 
 ## Contact
 
-- Linkedin: https://www.linkedin.com/in/smaail-ouzddou/
+- LinkedIn: https://www.linkedin.com/in/smaail-ouzddou/
 - GitHub: https://github.com/souzddou
 
 Thanks for stopping by 👋
