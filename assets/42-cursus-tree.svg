@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 920" role="img" aria-labelledby="title desc">
+  <title id="title">42 Cursus Dependency Tree</title>
+  <desc id="desc">Dependency tree of the 42 cursus with completion states.</desc>
+  <defs>
+    <style>
+      .bg { fill: #0b1020; }
+      .title { fill: #e6edf3; font: 700 34px 'Segoe UI', Inter, Arial, sans-serif; }
+      .sub { fill: #8b9bb4; font: 500 18px 'Segoe UI', Inter, Arial, sans-serif; }
+      .edge { fill: none; stroke: #3f4a63; stroke-width: 3; stroke-linecap: round; }
+      .node { rx: 14; ry: 14; stroke-width: 2.5; }
+      .done { fill: #0f2a1f; stroke: #22c55e; }
+      .doing { fill: #2f2410; stroke: #f59e0b; }
+      .todo { fill: #1b2437; stroke: #64748b; }
+      .label { fill: #e6edf3; font: 600 17px 'Segoe UI', Inter, Arial, sans-serif; }
+      .legend { fill: #c8d1dc; font: 500 15px 'Segoe UI', Inter, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1280" height="920" rx="24"/>
+  <text class="title" x="70" y="78">42 Cursus</text>
+  <text class="sub" x="70" y="108">Common Core progression and project dependencies</text>
+
+  <path class="edge" d="M190 175 L190 220 L355 220"/>
+  <path class="edge" d="M190 175 L190 290 L355 290"/>
+  <path class="edge" d="M190 175 L190 360 L355 360"/>
+  <path class="edge" d="M190 175 L190 430 L355 430"/>
+
+  <path class="edge" d="M525 220 L525 290 L690 290"/>
+  <path class="edge" d="M525 220 L525 360 L690 360"/>
+  <path class="edge" d="M525 290 L525 500 L690 500"/>
+  <path class="edge" d="M525 360 L525 570 L690 570"/>
+  <path class="edge" d="M525 430 L525 640 L690 640"/>
+
+  <path class="edge" d="M860 500 L860 640 L1025 640"/>
+  <path class="edge" d="M860 570 L860 710 L1025 710"/>
+  <path class="edge" d="M860 640 L860 780 L1025 780"/>
+
+  <g>
+    <rect class="node done" x="70" y="140" width="240" height="70"/>
+    <text class="label" x="190" y="182" text-anchor="middle">Libft</text>
+
+    <rect class="node done" x="355" y="185" width="240" height="70"/>
+    <text class="label" x="475" y="227" text-anchor="middle">ft_printf</text>
+
+    <rect class="node done" x="355" y="255" width="240" height="70"/>
+    <text class="label" x="475" y="297" text-anchor="middle">get_next_line</text>
+
+    <rect class="node done" x="355" y="325" width="240" height="70"/>
+    <text class="label" x="475" y="367" text-anchor="middle">Born2beroot</text>
+
+    <rect class="node done" x="355" y="395" width="240" height="70"/>
+    <text class="label" x="475" y="437" text-anchor="middle">Minitalk</text>
+
+    <rect class="node done" x="690" y="255" width="240" height="70"/>
+    <text class="label" x="810" y="297" text-anchor="middle">push_swap</text>
+
+    <rect class="node done" x="690" y="325" width="240" height="70"/>
+    <text class="label" x="810" y="367" text-anchor="middle">pipex</text>
+
+    <rect class="node doing" x="690" y="465" width="240" height="70"/>
+    <text class="label" x="810" y="507" text-anchor="middle">minishell</text>
+
+    <rect class="node done" x="690" y="535" width="240" height="70"/>
+    <text class="label" x="810" y="577" text-anchor="middle">so_long</text>
+
+    <rect class="node done" x="690" y="605" width="240" height="70"/>
+    <text class="label" x="810" y="647" text-anchor="middle">Philosophers</text>
+
+    <rect class="node todo" x="1025" y="605" width="210" height="70"/>
+    <text class="label" x="1130" y="647" text-anchor="middle">cub3d</text>
+
+    <rect class="node todo" x="1025" y="675" width="210" height="70"/>
+    <text class="label" x="1130" y="717" text-anchor="middle">CPP Modules</text>
+
+    <rect class="node done" x="1025" y="745" width="210" height="70"/>
+    <text class="label" x="1130" y="787" text-anchor="middle">Inception</text>
+  </g>
+
+  <g>
+    <rect class="node done" x="70" y="818" width="22" height="22"/>
+    <text class="legend" x="103" y="834">Completed</text>
+
+    <rect class="node doing" x="250" y="818" width="22" height="22"/>
+    <text class="legend" x="283" y="834">In progress</text>
+
+    <rect class="node todo" x="455" y="818" width="22" height="22"/>
+    <text class="legend" x="488" y="834">Planned</text>
+  </g>
+</svg>

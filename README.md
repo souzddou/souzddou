@@ -41,6 +41,16 @@ Analytical and adaptable Software Engineering student focused on complex problem
 
 ---
 
+## 42 Cursus
+
+<p align="center">
+  <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="42 GreenBinary progress" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
+</p>
+
+![42 Cursus dependency tree](./assets/42-cursus-tree.svg)
+
+---
+
 ## GitHub stats
 
 ![Smaail's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzddou&show_icons=true&theme=tokyonight)
