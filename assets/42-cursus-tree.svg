@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
   <title id="title">42 Cursus dependency graph</title>
   <desc id="desc">Dark themed cursus tree showing completed and in-progress projects.</desc>
   <defs>
@@ -13,36 +13,48 @@
       .cap { fill: #9cb0c8; font: 500 12px 'Inter', 'Segoe UI', Arial, sans-serif; }
       .ctrl { fill: #121826; stroke: #4a566c; stroke-width: 1.2; rx: 6; ry: 6; }
       .ctrl-icon { stroke: #9cb0c8; stroke-width: 1.6; fill: none; stroke-linecap: round; }
+      .section-label { fill: #6e7681; font: 600 14px 'Inter', 'Segoe UI', Arial, sans-serif; }
     </style>
   </defs>
 
-  <rect x="1" y="1" width="1278" height="758" class="panel" />
+  <rect x="1" y="1" width="1598" height="758" class="panel" />
   <text x="56" y="54" class="cap">42 cursus dependency graph</text>
 
+  <!-- COMMON CORE SECTION LABEL -->
+  <text x="56" y="100" class="section-label">COMMON CORE (Completed) ✓</text>
+
+  <!-- Libft connections -->
   <path class="line-complete" d="M178 130H270V220H345" />
   <path class="line-complete" d="M178 130H270V130H345" />
   <path class="line-complete" d="M178 130H270V310H345" />
 
+  <!-- Printf, gnl, born2beroot connections to next level -->
   <path class="line-complete" d="M503 130H590V130H665" />
-  <path class="line-complete" d="M503 130H590V220H665" />
-  <path class="line-complete" d="M503 220H590V310H665" />
+  <path class="line-complete" d="M503 220H590V220H665" />
+  <path class="line-complete" d="M503 310H590V310H665" />
   <path class="line-complete" d="M503 220H590V400H665" />
   <path class="line-complete" d="M503 310H590V490H665" />
 
+  <!-- push_swap, minitalk, so_long, pipex, philosophers to next level -->
   <path class="line-complete" d="M823 130H910V130H985" />
   <path class="line-complete" d="M823 220H910V220H985" />
   <path class="line-complete" d="M823 310H910V310H985" />
   <path class="line-complete" d="M823 400H910V400H985" />
+  <path class="line-complete" d="M823 490H910V490H985" />
 
-  <path class="line-pending" d="M823 490H910V490H985" />
-  <path class="line-pending" d="M1143 130H1188V220H1143" />
-  <path class="line-pending" d="M1143 220H1188V310H1143" />
-  <path class="line-pending" d="M1143 310H1188V400H1143" />
-  <path class="line-pending" d="M1143 400H1188V490H1143" />
+  <!-- CPP Modules to Inception -->
+  <path class="line-complete" d="M1143 400H1188V580H1303" />
+  <!-- Inception to ft_transcendence -->
+  <path class="line-complete" d="M1461 580H1550V130H1600" />
 
+  <!-- CIRCLE PROJECTS SECTION LABEL -->
+  <text x="56" y="535" class="section-label">CIRCLE PROJECTS (Completed) ✓</text>
+
+  <!-- Nodes: Common Core Row 1 -->
   <rect x="58" y="95" width="120" height="70" class="node-complete" />
   <text x="118" y="130" class="text-complete">Libft</text>
 
+  <!-- Nodes: Common Core Row 2 -->
   <rect x="345" y="95" width="158" height="70" class="node-complete" />
   <text x="424" y="130" class="text-complete">ft_printf</text>
 
@@ -52,6 +64,7 @@
   <rect x="345" y="275" width="158" height="70" class="node-complete" />
   <text x="424" y="310" class="text-complete">Born2beroot</text>
 
+  <!-- Nodes: Common Core Row 3 -->
   <rect x="665" y="95" width="158" height="70" class="node-complete" />
   <text x="744" y="130" class="text-complete">push_swap</text>
 
@@ -67,6 +80,7 @@
   <rect x="665" y="455" width="158" height="70" class="node-complete" />
   <text x="744" y="490" class="text-complete">Philosophers</text>
 
+  <!-- Nodes: Circle Projects Row 4 -->
   <rect x="985" y="95" width="158" height="70" class="node-complete" />
   <text x="1064" y="130" class="text-complete">minishell</text>
 
@@ -79,21 +93,19 @@
   <rect x="985" y="365" width="158" height="70" class="node-complete" />
   <text x="1064" y="400" class="text-complete">CPP Modules</text>
 
-  <rect x="985" y="455" width="158" height="70" class="node-pending" />
-  <text x="1064" y="490" class="text-pending">Inception</text>
+  <!-- Nodes: Specialization -->
+  <rect x="1303" y="545" width="158" height="70" class="node-complete" />
+  <text x="1382" y="580" class="text-complete">Inception</text>
 
-  <rect x="58" y="590" width="220" height="96" class="node-complete" />
-  <text x="168" y="624" class="text-complete">Completed</text>
-  <text x="168" y="654" class="cap">Green nodes = validated projects</text>
+  <rect x="1600" y="95" width="178" height="70" class="node-complete" />
+  <text x="1689" y="130" class="text-complete">ft_transcendence</text>
 
-  <rect x="304" y="590" width="220" height="96" class="node-pending" />
-  <text x="414" y="624" class="text-pending">In progress</text>
-  <text x="414" y="654" class="cap">Dark nodes = upcoming projects</text>
+  <!-- Legend -->
+  <rect x="58" y="665" width="220" height="96" class="node-complete" />
+  <text x="168" y="699" class="text-complete">Completed</text>
+  <text x="168" y="729" class="cap">Green nodes = validated projects</text>
 
-  <rect x="1194" y="120" width="48" height="48" class="ctrl" />
-  <rect x="1194" y="180" width="48" height="48" class="ctrl" />
-  <rect x="1194" y="240" width="48" height="48" class="ctrl" />
-  <path d="M1208 144h20M1218 134v20" class="ctrl-icon" />
-  <path d="M1208 204h20" class="ctrl-icon" />
-  <path d="M1209 253l7 7 13-13" class="ctrl-icon" />
+  <rect x="304" y="665" width="220" height="96" class="node-pending" />
+  <text x="414" y="699" class="text-pending">In progress</text>
+  <text x="414" y="729" class="cap">Dark nodes = upcoming projects</text>
 </svg>
