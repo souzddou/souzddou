@@ -41,15 +41,36 @@ Analytical and adaptable Software Engineering student focused on complex problem
 
 ---
 
-## GitHub stats
+## Tools & Environment
 
-![Smaail's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzddou&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzddou&layout=compact&theme=tokyonight)
+<p align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=3EA6FF" />
+  <img alt="C" src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+</p>
 
 ---
 
-## Contact
+## 42 Cursus
 
-- LinkedIn: https://www.linkedin.com/in/smaail-ouzddou/
+<p align="center">
+  <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="GreenBinary" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
+</p>
+<p align="center">
+  <img alt="42 cursus dependency graph" src="./assets/42-cursus-tree.svg" width="100%" />
+</p>
+
+---
+
+## My contacts
+
+<p align="center">
+  <a href="mailto:smaail.ouzddou@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/souzddou"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/smaail-ouzddou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+</p>
 
 Thanks for stopping by 👋
