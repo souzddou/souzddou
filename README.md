@@ -62,6 +62,7 @@ Analytical and adaptable Software Engineering student focused on complex problem
 </p>
 
 
+
 ---
 
 ## My contacts
