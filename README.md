@@ -42,10 +42,10 @@ Analytical and adaptable Software Engineering student focused on complex problem
 ---
 
 ## Programming Languages
-<p align="center"> <img alt="C" src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" /> <img alt="C++" src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" /> </p>
+<p align="center"> <img alt="C" src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC&logoWidth=35" height="45" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C&logoWidth=35" height="45" /> <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB&logoWidth=35" height="45" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=35" height="45" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26&logoWidth=35" height="45" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6&logoWidth=35" height="45" /> </p>
 
 ## Tools & Environment
-<p align="center"> <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=3EA6FF" /> </p>
+<p align="center"> <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white&logoWidth=35" height="45" /> <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032&logoWidth=35" height="45" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED&logoWidth=35" height="45" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=3EA6FF&logoWidth=35" height="45" /> </p>
 
 ---
 
