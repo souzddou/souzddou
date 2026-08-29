@@ -271,9 +271,9 @@
         rx="4"
         class="node-special"/>
 
-  <text x="385" y="1614" class="legend-title">
-    Specialization
-  </text>
+ <text x="400" y="1300" class="section">
+  SPECIALIZATION • COMPLETED ✓
+</text>
 
   <text x="385" y="1634" class="legend-text">
     Advanced project
