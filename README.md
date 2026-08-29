@@ -1,5 +1,3 @@
-<img src="./assets/banner-top.svg" width="100%" alt=""/>
-
 <div align="center">
 
 # Smaail Ouzddou
@@ -22,18 +20,11 @@
   <a href="https://github.com/souzddou"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-souzddou-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souzddou&style=flat-square&color=2FCE7A&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/souzddou?style=flat-square&color=2FCE7A&labelColor=0D1117" />
-</p>
-
 <br/>
 
-## 🧭 About
+## 🧭 Summary
 
 Analytical and adaptable Software Engineering student focused on complex problem-solving, systems programming, and applied AI engineering. Experience designing matchmaking logic, building RAG systems, and architecting containerized microservices. Skilled at bridging low-level systems knowledge with modern cloud-native technologies.
-
-**Open to:** Software Engineering internships · AI/ML engineering collaborations · Open-source contributions
 
 <br/>
 
@@ -56,21 +47,6 @@ Architected a multi-service demo environment using Docker Compose, NGINX, WordPr
 
 <br/>
 
-## 🧠 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Details |
-|---|---|
-| LLM Integration | Integrated the Gemini API in a production-style microservice to generate personalized, context-aware output |
-| Retrieval-Augmented Generation | Built a RAG pipeline (Python + LangChain) for semantic search and context grounding |
-| Semantic Search | Implemented context retrieval to ground LLM responses in indexed resume data |
-| Matchmaking Logic | Designed a compatibility-scoring algorithm from structured lifestyle-preference data |
-
-</div>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -82,21 +58,7 @@ Architected a multi-service demo environment using Docker Compose, NGINX, WordPr
 
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 42 Common Core | Completed the full common-core curriculum (Libft → C++ Modules) |
-| Advanced Projects | Completed Inception and ft_transcendence |
-| GreenBinary Code Quality | Holds a GreenBinary code-quality badge at 1337 |
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=souzddou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FCE7A&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="GitHub stats"/>
@@ -105,14 +67,6 @@ Architected a multi-service demo environment using Docker Compose, NGINX, WordPr
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=souzddou&hide_border=true&background=0D1117&stroke=30363D&ring=2FCE7A&fire=2FCE7A&currStreakLabel=2FCE7A&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souzddou&theme=algolia&no-frame=true&margin-w=8&row=1" alt="GitHub trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzddou&custom_title=Contribution%20Activity&bg_color=0D1117&color=2FCE7A&line=2FCE7A&point=F0F6FC&area=true&area_color=173524&hide_border=true" alt="Contribution activity graph"/>
 </p>
 
 <br/>
@@ -127,23 +81,6 @@ Architected a multi-service demo environment using Docker Compose, NGINX, WordPr
 
 <br/>
 
-## 🎯 Current Focus
-
-```yaml
-current_focus:
-  building:
-    - ft_transcendence AI microservice
-    - RAG-based resume evaluation pipeline
-  exploring:
-    - Cloud-native deployment patterns
-    - LLM-integrated backend architectures
-  open_to:
-    - Software Engineering internships
-    - AI / ML engineering collaboration
-```
-
-<br/>
-
 ## 📬 Contact
 
 <p align="center">
@@ -153,5 +90,3 @@ current_focus:
 </p>
 
 <p align="center"><sub>Thanks for stopping by 👋</sub></p>
-
-<img src="./assets/banner-bottom.svg" width="100%" alt=""/>
