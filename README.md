@@ -16,7 +16,7 @@ RAG System
 Built a Retrieval-Augmented Generation pipeline using Python and LangChain to index and query resume context.
 Implemented semantic search and context retrieval to ground LLM responses for automated profile evaluation.
 Inception — Docker Infrastructure
-Architected a multi-service environment using Docker Compose, NGINX, WordPress, and MariaDB to simulate a production infrastructure.
+Architected a multi-service demo environment using Docker Compose, NGINX, WordPress, and MariaDB to simulate production.
 Technical Skills
 Languages: C, C++, Python, JavaScript, TypeScript, Bash
 AI & Microservices: LLM integration (Gemini), LangChain, RAG systems, FastAPI, AI matchmaking
