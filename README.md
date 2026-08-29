@@ -1,6 +1,6 @@
 # Smaail Ouzddou — 1337 Software Engineer Student 👋
 
-> Analytical and adaptable Software Engineering student driven by a passion for complex problem-solving. Strong foundation in university-level mathematics and systems programming (C/C++). Applied analytical skills to modern AI engineering—designing matchmaking algorithms, building Retrieval-Augmented Generation (RAG) systems, and integrating LLM microservices into full-stack architectures.
+> Analytical and adaptable Software Engineering student driven by a passion for complex problem-solving. Strong foundation in university-level mathematics and systems programming (C/C++). Applied advanced concepts in distributed systems, AI microservices, and containerized infrastructure.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smaail-ouzddou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-smaail--ouzddou-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ## Summary
 
-Analytical and adaptable Software Engineering student focused on complex problem-solving, systems programming, and applied AI engineering. Experience designing matchmaking logic, building RAG systems, and integrating LLM microservices into production-like full-stack architectures.
+Analytical and adaptable Software Engineering student focused on complex problem-solving, systems programming, and applied AI engineering. Experience designing matchmaking logic, building RAG systems, and architecting containerized microservices. Skilled at bridging low-level systems knowledge with modern cloud-native technologies.
 
 ---
 
@@ -56,9 +56,6 @@ Analytical and adaptable Software Engineering student focused on complex problem
 
 ## 42 Cursus
 
-<p align="center">
-  <a href="https://badge.mediaplus.ma/greenbinary/souzddou"><img alt="GreenBinary" src="https://badge.mediaplus.ma/greenbinary/souzddou" /></a>
-</p>
 <p align="center">
   <img alt="42 cursus dependency graph" src="./assets/42-cursus-tree.svg" width="100%" />
 </p>
