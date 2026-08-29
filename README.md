@@ -58,17 +58,6 @@ Architected a multi-service demo environment using Docker Compose, NGINX, WordPr
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=souzddou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FCE7A&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzddou&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FCE7A&text_color=8B949E&border_color=30363D" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souzddou&hide_border=true&background=0D1117&stroke=30363D&ring=2FCE7A&fire=2FCE7A&currStreakLabel=2FCE7A&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub streak stats"/>
-</p>
-
 <br/>
 
 ## 🎓 42 Cursus
