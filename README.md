@@ -49,11 +49,18 @@ Analytical and adaptable Software Engineering student focused on complex problem
 
 ---
 
-## 42 Cursus
+## 🎓 42 Cursus
+
+> A journey through systems programming, algorithms, networking, DevOps, and software engineering.
 
 <p align="center">
-  <img alt="42 cursus dependency graph" src="./assets/42-cursus-tree.svg" width="100%" />
+  <img
+    src="./assets/42-cursus-tree.svg"
+    alt="42 Cursus roadmap"
+    width="100%"
+  />
 </p>
+
 
 ---
 
