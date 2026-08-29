@@ -210,89 +210,80 @@
 
   <path class="line-complete" d="M400 1115 V1150"/>
 
-  <!-- C++ Modules -->
-  <rect x="290" y="1150" width="220" height="65"
-        rx="12" class="node-complete"/>
-  <text x="400" y="1182" class="text-complete">C++ Modules</text>
-
-  <!-- ========================= -->
-  <!-- SPECIALIZATION -->
-  <!-- ========================= -->
-
-  <path class="line-complete" d="M400 1215 V1265"/>
-
-  <text x="400" y="1300" class="section">
-    SPECIALIZATION
-  </text>
-
-  <!-- Inception -->
-  <rect x="290" y="1330" width="220" height="65"
-        rx="12" class="node-complete"/>
-  <text x="400" y="1362" class="text-special">Inception</text>
-
-  <path class="line-complete" d="M400 1395 V1435"/>
-
-  <!-- ft_transcendence -->
-  <rect x="250" y="1435" width="300" height="65"
-        rx="12" class="node-complete"/>
-  <text x="400" y="1467" class="text-special">ft_transcendence</text>
-
-  <!-- ========================= -->
-  <!-- LEGEND -->
-  <!-- ========================= -->
-
-  <rect x="100"
-        y="1570"
-        width="600"
-        height="145"
-        rx="14"
-        fill="#0d1117"
-        stroke="#21262d"/>
-
-  <!-- Completed -->
-  <rect x="135" y="1600"
-        width="18"
-        height="18"
-        rx="4"
-        class="node-complete"/>
-
-  <text x="170" y="1614" class="legend-title">
-    Completed
-  </text>
-
-  <text x="170" y="1634" class="legend-text">
-    Validated project
-  </text>
-
-  <!-- Specialization -->
-  <rect x="350" y="1600"
-        width="18"
-        height="18"
-        rx="4"
-        class="node-special"/>
-
- <text x="400" y="1300" class="section">
-  SPECIALIZATION • COMPLETED ✓
+<!-- C++ Modules -->
+<rect x="290" y="1150" width="220" height="65"
+      rx="12" class="node-complete"/>
+<text x="400" y="1182" class="text-complete">
+  C++ Modules
 </text>
 
-  <text x="385" y="1634" class="legend-text">
-    Advanced project
-  </text>
+<!-- ========================= -->
+<!-- ADVANCED PROJECTS -->
+<!-- ========================= -->
 
-  <!-- Upcoming -->
-  <rect x="135" y="1670"
-        width="18"
-        height="18"
-        rx="4"
-        class="node-pending"/>
+<path class="line-complete" d="M400 1215 V1265"/>
 
-  <text x="170" y="1684" class="legend-title">
-    Upcoming
-  </text>
+<text x="400" y="1300" class="section">
+  ADVANCED PROJECTS • COMPLETED ✓
+</text>
 
-  <text x="170" y="1704" class="legend-text">
-    Not completed
-  </text>
+<!-- Inception -->
+<rect x="290" y="1330" width="220" height="65"
+      rx="12" class="node-complete"/>
+<text x="400" y="1362" class="text-complete">
+  Inception
+</text>
+
+<path class="line-complete" d="M400 1395 V1435"/>
+
+<!-- ft_transcendence -->
+<rect x="250" y="1435" width="300" height="65"
+      rx="12" class="node-complete"/>
+<text x="400" y="1467" class="text-complete">
+  ft_transcendence
+</text>
+
+<!-- ========================= -->
+<!-- LEGEND -->
+<!-- ========================= -->
+
+<rect x="100"
+      y="1570"
+      width="600"
+      height="145"
+      rx="14"
+      fill="#0d1117"
+      stroke="#21262d"/>
+
+<!-- Completed -->
+<rect x="135" y="1600"
+      width="18"
+      height="18"
+      rx="4"
+      class="node-complete"/>
+
+<text x="170" y="1614" class="legend-title">
+  Completed
+</text>
+
+<text x="170" y="1634" class="legend-text">
+  Validated project
+</text>
+
+<!-- Upcoming -->
+<rect x="135" y="1670"
+      width="18"
+      height="18"
+      rx="4"
+      class="node-pending"/>
+
+<text x="170" y="1684" class="legend-title">
+  Upcoming
+</text>
+
+<text x="170" y="1704" class="legend-text">
+  Not completed
+</text>
 
   <!-- Footer -->
   <text x="400"
