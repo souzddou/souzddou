@@ -227,14 +227,14 @@
 
   <!-- Inception -->
   <rect x="290" y="1330" width="220" height="65"
-        rx="12" class="node-special"/>
+        rx="12" class="node-complete"/>
   <text x="400" y="1362" class="text-special">Inception</text>
 
   <path class="line-complete" d="M400 1395 V1435"/>
 
   <!-- ft_transcendence -->
   <rect x="250" y="1435" width="300" height="65"
-        rx="12" class="node-special"/>
+        rx="12" class="node-complete"/>
   <text x="400" y="1467" class="text-special">ft_transcendence</text>
 
   <!-- ========================= -->
