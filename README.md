@@ -1,6 +1,18 @@
-# Smaail Ouzddou — 1337 Software Engineer Student 👋
+<div align="center">
 
-> Analytical and adaptable Software Engineering student driven by a passion for complex problem-solving. Strong foundation in university-level mathematics and systems programming (C/C++). Applied advanced concepts in distributed systems, AI microservices, and containerized infrastructure.
+# Smaail Ouzddou
+
+### 1337 Software Engineer Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2FCE7A&center=true&vCenter=true&width=600&lines=Systems+programming+in+C+%2F+C%2B%2B;Building+AI-powered+microservices;Containerizing+everything+with+Docker;Always+debugging+something+at+3am" alt="Typing animation" />
+
+</div>
+
+<p align="center">
+  <i>Analytical and adaptable Software Engineering student driven by a passion for complex problem-solving.<br/>
+  Strong foundation in university-level mathematics and systems programming (C/C++).<br/>
+  Applied advanced concepts in distributed systems, AI microservices, and containerized infrastructure.</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smaail-ouzddou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-smaail--ouzddou-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -8,64 +20,68 @@
   <a href="https://github.com/souzddou"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-souzddou-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
-## Summary
+## 🧭 Summary
 
 Analytical and adaptable Software Engineering student focused on complex problem-solving, systems programming, and applied AI engineering. Experience designing matchmaking logic, building RAG systems, and architecting containerized microservices. Skilled at bridging low-level systems knowledge with modern cloud-native technologies.
 
----
+<br/>
 
-## Project experience
+## 🚀 Project Experience
 
-### ft_transcendence — AI service & matchmaking logic
-- Owned AI and compatibility logic for a full-stack platform; engineered a Python/FastAPI microservice for backend integration.
-- Integrated Gemini LLM to process user inputs and generate personalized bios, improving engagement.
-- Designed a matchmaking algorithm to analyze lifestyle preferences and compute compatibility scores.
+### `ft_transcendence` — AI service & matchmaking logic
+Owned AI and compatibility logic for a full-stack platform; engineered a Python/FastAPI microservice for backend integration. Integrated the Gemini LLM to process user inputs and generate personalized bios, improving engagement. Designed a matchmaking algorithm to analyze lifestyle preferences and compute compatibility scores.
+
+`Python` `FastAPI` `Gemini LLM` `Matchmaking algorithms`
 
 ### RAG system
-- Built a Retrieval-Augmented Generation pipeline using Python and LangChain to index and query resume context.
-- Implemented semantic search and context retrieval to ground LLM responses for automated profile evaluation.
+Built a Retrieval-Augmented Generation pipeline using Python and LangChain to index and query resume context. Implemented semantic search and context retrieval to ground LLM responses for automated profile evaluation.
 
-### Inception — Docker infrastructure
-- Architected a multi-service demo environment using Docker Compose, NGINX, WordPress, and MariaDB to simulate production.
+`Python` `LangChain` `Semantic search` `RAG`
 
----
+### `Inception` — Docker infrastructure
+Architected a multi-service demo environment using Docker Compose, NGINX, WordPress, and MariaDB to simulate production.
 
-## Technical skills
+`Docker Compose` `NGINX` `WordPress` `MariaDB`
 
-- Languages: C, C++, Python, JavaScript, TypeScript, Bash
-- AI & microservices: LLM integration (Gemini), LangChain, RAG systems, FastAPI, AI matchmaking
-- Backend & web: Node.js, NestJS, microservices architecture, RESTful APIs
-- DevOps & tools: Docker, Docker Compose, Git, Linux CLI, TCP/IP, multithreading, observability
+<br/>
 
----
+## 🛠️ Tech Stack
 
-## Programming Languages
-<p align="center"> <img alt="C" src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC&logoWidth=35" height="45" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C&logoWidth=35" height="45" /> <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB&logoWidth=35" height="45" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=35" height="45" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26&logoWidth=35" height="45" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6&logoWidth=35" height="45" /> </p>
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="Tech stack" width="700"/>
+</p>
 
-## Tools & Environment
-<p align="center"> <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white&logoWidth=35" height="45" /> <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032&logoWidth=35" height="45" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED&logoWidth=35" height="45" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=3EA6FF&logoWidth=35" height="45" /> </p>
+**Backend & web:** Node.js, NestJS, microservices architecture, RESTful APIs
+**AI & infra:** LLM integration, LangChain, RAG systems, TCP/IP, multithreading, observability
 
----
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=souzddou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FCE7A&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzddou&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FCE7A&text_color=8B949E&border_color=30363D" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souzddou&hide_border=true&background=0D1117&stroke=30363D&ring=2FCE7A&fire=2FCE7A&currStreakLabel=2FCE7A&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub streak stats"/>
+</p>
+
+<br/>
 
 ## 🎓 42 Cursus
 
 > A journey through systems programming, algorithms, networking, DevOps, and software engineering.
 
 <p align="center">
-  <img
-    src="./assets/42-cursus-tree.svg"
-    alt="42 Cursus roadmap"
-    width="100%"
-  />
+  <img src="./assets/42-cursus-tree.svg" alt="42 Cursus roadmap" width="100%"/>
 </p>
 
+<br/>
 
-
----
-
-## My contacts
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:smaail.ouzddou@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
@@ -73,4 +89,4 @@ Analytical and adaptable Software Engineering student focused on complex problem
   <a href="https://www.linkedin.com/in/smaail-ouzddou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 </p>
 
-Thanks for stopping by 👋
+<p align="center"><sub>Thanks for stopping by 👋</sub></p>
